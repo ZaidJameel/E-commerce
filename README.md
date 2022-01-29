@@ -1,2 +1,2 @@
 # E-commerce
-temp Ecommerce website
+This is a work in progress E-commerce Website supported by Django backned 
